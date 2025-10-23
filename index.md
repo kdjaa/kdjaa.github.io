@@ -1,19 +1,22 @@
 ---
-layout: home
-author_profile: true
-title: "AI & Data Science"
-excerpt: "Machine Learning • Deep Learning • Computer Vision • NLP"
+layout: default
+title: "Khadiga Ahmed"
 ---
 
-## 👩‍💻 About Me
+# 👋 Hi, I’m Khadiga Ahmed
 
-I’m **Khadiga Ahmed**, a passionate **AI Engineer and Data Scientist** focused on building intelligent systems that bridge real-world problems and AI-driven solutions — especially in **healthcare**.
+**AI Engineer & Data Scientist** passionate about using **Machine Learning**, **Deep Learning**, and **Computer Vision** to create real-world intelligent systems — especially for **healthcare** and **automation**.
 
-My work focuses on:
+---
+
+## 🧠 About Me
+
+I’m an aspiring **AI Engineer & Data Scientist** focused on:
 - Designing and fine-tuning **deep learning models** using **transfer learning**
-- Developing **computer vision** solutions for **object detection** and **image classification**
-- Exploring **natural language processing** for **chatbot development** using APIs like **DeepSeek**
-- Performing **data analysis** and **model deployment** using **FastAPI** and **Streamlit**
+- Building **computer vision** systems for object detection and classification
+- Developing **chatbots** with **NLP** and **API integration**
+- Deploying ML models using **FastAPI** and **Streamlit**
+- Exploring innovative applications of AI for **real-world problem-solving**
 
 ---
 
@@ -29,7 +32,7 @@ OpenCV • Roboflow • Object Detection (YOLO, EfficientNet, CNNs) • Image Cl
 DeepSeek API • Text Classification  
 
 ### **Data Science & Analysis**
-Pandas • NumPy • Matplotlib • Seaborn • Exploratory Data Analysis (EDA) • Feature Engineering  
+Pandas • NumPy • Matplotlib • Seaborn • EDA • Feature Engineering  
 
 ### **Model Deployment**
 FastAPI • Streamlit  
@@ -41,35 +44,28 @@ Git • GitHub • Jupyter Notebook • VS Code • Google Colab • Docker (int
 
 ## 🚀 Featured Projects
 
-<div class="grid__wrapper">
-  <div class="grid__item">
-    <h3>🫁 <a href="https://github.com/kdjaa/lung-xray-classifier">Lung X-Ray Classifier (Transfer Learning)</a></h3>
-    <p>This project applies transfer learning to classify chest X-ray images into <strong>Normal</strong>, <strong>Lung Opacity</strong>, and <strong>Viral Pneumonia</strong> categories using pre-trained CNN architectures.</p>
-    <ul>
-      <li>Models: DenseNet121, ResNet50, EfficientNetB0</li>
-      <li>Validation Accuracy: ~94%</li>
-      <li>Dataset: Kaggle Lung Disease Dataset</li>
-    </ul>
-  </div>
+### 🫁 [Lung X-Ray Classifier (Transfer Learning)](https://github.com/kdjaa/lung-xray-classifier)
+Developed a transfer learning model to classify X-ray images into **Normal**, **Lung Opacity**, and **Viral Pneumonia** categories.  
+**Models:** DenseNet121, ResNet50, EfficientNetB0  
+**Accuracy:** ~94%  
+**Dataset:** Kaggle Lung Disease Dataset  
 
-  <div class="grid__item">
-    <h3>🧠 <a href="https://github.com/kdjaa/alzheimers-mri-classifier">Alzheimer’s MRI Classifier</a></h3>
-    <p>Classifies brain MRI scans into four categories: <strong>NonDemented</strong>, <strong>VeryMildDemented</strong>, <strong>MildDemented</strong>, and <strong>ModerateDemented</strong> using transfer learning and class balancing.</p>
-    <ul>
-      <li>Models: DenseNet121, EfficientNet, ResNet50</li>
-      <li>Validation Accuracy: 99%</li>
-      <li>Dataset: Kaggle Medical Scan Classification Dataset</li>
-    </ul>
-  </div>
-</div>
+---
+
+### 🧠 [Alzheimer’s MRI Classifier](https://github.com/kdjaa/alzheimers-mri-classifier)
+Built a classifier for brain MRI scans with four categories: **NonDemented**, **VeryMildDemented**, **MildDemented**, **ModerateDemented**.  
+**Models:** DenseNet121, EfficientNet, ResNet50  
+**Accuracy:** 99%  
+**Dataset:** Kaggle MRI Dataset  
 
 ---
 
 ## 📫 Contact
-📧 **Email:** [khadigahmed899@gmail.com](mailto:khadigahmed899@gmail.com)  
+
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🌐 **GitHub:** [kdjaa](https://github.com/kdjaa)
+🌐 **GitHub:** [github.com/kdjaa](https://github.com/kdjaa)
 
 ---
 
-© 2025 **Khadiga Ahmed** | Built using Minimal Mistakes
+© 2025 **Khadiga Ahmed** | Built using the Cayman theme
