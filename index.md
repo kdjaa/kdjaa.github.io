@@ -1,14 +1,15 @@
-# Khadiga Ahmed  
-### AI Engineer and Data Scienctist
-*Machine Learning • Deep Learning • Computer Vision • NLP*
-
+---
+layout: home
+author_profile: true
+title: "AI & Data Science"
+excerpt: "Machine Learning • Deep Learning • Computer Vision • NLP"
 ---
 
 ## 👩‍💻 About Me
 
-I’m **Khadiga Ahmed**, a passionate **AI Engineer and Data Scienctist** focused on building intelligent systems that bridge real-world problems and AI-driven solutions — especially in **healthcare** and **automation**.
+I’m **Khadiga Ahmed**, a passionate **AI Engineer and Data Scientist** focused on building intelligent systems that bridge real-world problems and AI-driven solutions — especially in **healthcare**.
 
-I specialize in:
+My work focuses on:
 - Designing and fine-tuning **deep learning models** using **transfer learning**
 - Developing **computer vision** solutions for **object detection** and **image classification**
 - Exploring **natural language processing** for **chatbot development** using APIs like **DeepSeek**
@@ -40,34 +41,35 @@ Git • GitHub • Jupyter Notebook • VS Code • Google Colab • Docker (int
 
 ## 🚀 Featured Projects
 
-### 🫁 [Lung X-Ray Classifier (Transfer Learning)](https://github.com/kdjaa/lung-xray-classifier)
-This project applies **transfer learning** to classify chest X-ray images into **Normal**, **Lung Opacity**, and **Viral Pneumonia**.  
-It fine-tunes pre-trained CNN models for medical image classification.
+<div class="grid__wrapper">
+  <div class="grid__item">
+    <h3>🫁 <a href="https://github.com/kdjaa/lung-xray-classifier">Lung X-Ray Classifier (Transfer Learning)</a></h3>
+    <p>This project applies transfer learning to classify chest X-ray images into <strong>Normal</strong>, <strong>Lung Opacity</strong>, and <strong>Viral Pneumonia</strong> categories using pre-trained CNN architectures.</p>
+    <ul>
+      <li>Models: DenseNet121, ResNet50, EfficientNetB0</li>
+      <li>Validation Accuracy: ~94%</li>
+      <li>Dataset: Kaggle Lung Disease Dataset</li>
+    </ul>
+  </div>
 
-**Highlights:**
-- Models: DenseNet121, ResNet50, EfficientNetB0  
-- Data Augmentation: rotations, flips, rescaling  
-- Validation Accuracy: ~94%  
-- Dataset: Kaggle Lung Disease Dataset  
-
----
-
-### 🧠 [Alzheimer’s MRI Classifier](https://github.com/kdjaa/alzheimers-mri-classifier)
-A transfer learning model to classify brain MRI scans into four categories:  
-**NonDemented**, **VeryMildDemented**, **MildDemented**, and **ModerateDemented**.
-
-**Highlights:**
-- Models: DenseNet121, EfficientNet, ResNet50  
-- Validation Accuracy: 99%  
-- Dataset: Kaggle Medical Scan Classification Dataset  
+  <div class="grid__item">
+    <h3>🧠 <a href="https://github.com/kdjaa/alzheimers-mri-classifier">Alzheimer’s MRI Classifier</a></h3>
+    <p>Classifies brain MRI scans into four categories: <strong>NonDemented</strong>, <strong>VeryMildDemented</strong>, <strong>MildDemented</strong>, and <strong>ModerateDemented</strong> using transfer learning and class balancing.</p>
+    <ul>
+      <li>Models: DenseNet121, EfficientNet, ResNet50</li>
+      <li>Validation Accuracy: 99%</li>
+      <li>Dataset: Kaggle Medical Scan Classification Dataset</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 ## 📫 Contact
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [khadigahmed899@gmail.com](mailto:khadigahmed899@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🌐 **GitHub:** [github.com/kdjaa](https://github.com/kdjaa)
+🌐 **GitHub:** [kdjaa](https://github.com/kdjaa)
 
 ---
 
-© 2025 **Khadiga Ahmed** | Built using GitHub Pages
+© 2025 **Khadiga Ahmed** | Built using Minimal Mistakes
