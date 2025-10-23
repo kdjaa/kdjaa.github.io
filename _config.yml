@@ -1,0 +1,14 @@
+title: "Khadiga Ahmed"
+description: "AI Engineer & Data Scienctist | Machine Learning • Deep Learning • Computer Vision"
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# SEO and author info
+author: Khadiga Ahmed
+url: "https://kdjaa.github.io"
+baseurl: ""
+
+# Optional plugins for better metadata
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
