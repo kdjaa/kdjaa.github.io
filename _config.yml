@@ -1,44 +1,18 @@
 title: "Khadiga Ahmed"
 description: "AI Engineer & Data Scientist | Machine Learning • Deep Learning • Computer Vision"
-url: "https://kdjaa.github.io"
-baseurl: ""
-
-# Theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-include-cache
+theme: jekyll-theme-cayman
 
 # Author Info
 author:
   name: "Khadiga Ahmed"
-  avatar: "/assets/images/profile.jpg"
-  bio: "AI Engineer & Data Scientist | Passionate about AI solutions for healthcare."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/kdjaa"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/your-profile"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:khadigahmed899@gmail.com"
+  email: "khadigahmed899@gmail.com"
+  github: "https://github.com/kdjaa"
+  linkedin: "https://linkedin.com/in/your-profile"
 
-# Layout Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
-      author_profile: true
+# Social Links
+github:
+  is_project_page: true
+  repository_url: "https://github.com/kdjaa"
 
-# Navigation
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:name
+# Build settings
+markdown: kramdown
